@@ -1,4 +1,4 @@
-- 👋 Hey! I’m @mxdhavgautam (Madhav Gautam)
+- 👋 Hey! I’m Madhav.
 - 💻 I'm currently pursuing my B.Tech. in Computer Science Engineering with Specialization in Artificial Intelligence and Robotics at Vellore Institue of Technology, Chennai.
 - 👀 As my bio says, I'm an avid tech enthusiast. I love all things computers, installing and exploring Custom ROMs, and tinkering around with any sort of smart device I can get my hands on.
 - 🌱 I’m currently learning Dart and am an intermediate Python programmer.
