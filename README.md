@@ -1,7 +1,6 @@
 - 👋 Hey! I’m Madhav.
 - 💻 I'm currently pursuing my B.Tech. in Computer Science Engineering with Specialization in Artificial Intelligence and Robotics at Vellore Institue of Technology, Chennai.
 - 👀 I love all things about computers, installing and exploring Custom ROMs, and tinkering around with any sort of smart device I can get my hands on.
-- 🌱 I’m currently learning Dart and am an intermediate C++/Java programmer.
-- 👨‍💻 Programming Languages that I know include Python, C, C++, SQL, HTML, and Java.
+- 🌱 Programming Languages that I know include Python, C, C++, Dart, Swift, SQL, HTML, and Java.
 - 💞️ I’m looking to collaborate on any project as long as it helps me learn and grow.
 - 📫 You can reach me at https://mxdhavgautam.netlify.app
