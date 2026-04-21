@@ -1,6 +1,12 @@
-- 👋 Hey! I’m Madhav.
-- 💻 I've completed my B.Tech. in Computer Science Engineering with Specialization in Artificial Intelligence and Robotics at Vellore Institue of Technology, Chennai.
-- 👀 I love all things about computers and tinkering around with any sort of smart device I can get my hands on.
-- 🌱 Programming Languages that I have worked with include Python, C, C++, Dart, Swift, SQL, HTML, JavaScript, TypeScript and Java.
-- 💞️ I’m looking to collaborate on any project as long as it helps me learn and grow.
-- 📫 You can reach me at https://www.mxdhavgautam.com
+# Hi, I'm Madhav
+
+- CS @ Vellore Institute of Technology
+- Currently an MLOps Research Officer @ Quantum Innovation Centre, A*STAR in Singapore
+- Previously I've interned at [CR3ATE.AI](https://www.cr3ate.ai), HCLTech in Lucknow and the Weapons and Electronics Systems Engineering Establishment at Ministry of Defence in Delhi
+- High agency, fast learner, solid under pressure and I love building new things
+- Feel free to reach out to me at [mxdhavgautam.com](https://www.mxdhavgautam.com)
+
+
+## Here's what I've been burning tokens on lately:
+
+- **[friday-for-codex](https://github.com/mxdhavgautam/friday-for-codex)** - Iron Man's Friday-inspired Codex wake briefing and voice workflow for macOS
