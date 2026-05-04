@@ -9,6 +9,7 @@
 
 ## Here's what I've been burning tokens on lately:
 
+- **[100-tiny-users](https://github.com/mxdhavgautam/100-tiny-users)** - An agent-driven web dev tool to find faults and implement fixes for pre-prod projects
 - **[deptrace](https://github.com/mxdhavgautam/deptrace)** - CLI tool to explain where & how a JavaScript/TypeScript dependency is being used in your project
 - **[friday-for-codex](https://github.com/mxdhavgautam/friday-for-codex)** - Iron Man's Friday-inspired Codex wake briefing and voice workflow for macOS
 - **[video-grabber](https://github.com/mxdhavgautam/video-grabber)** - YouTube video downloader extension - FFmpeg.wasm & yt-dlp, zero dependencies
