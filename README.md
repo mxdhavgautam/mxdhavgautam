@@ -9,6 +9,7 @@
 
 ## Here's what I've been burning tokens on lately:
 
+- **[codex-hands](https://github.com/mxdhavgautam/codex-hands)** - Gives Claude Code, Cursor and opencode the computer use Codex has, on macOS and Windows, as one MCP server
 - **[babble](https://github.com/mxdhavgautam/babble)** - Near instant & lightweight voice transcription for macOS that runs fully on-device and knows its AI lingo
 - **[100-tiny-users](https://github.com/mxdhavgautam/100-tiny-users)** - An agent-driven web dev tool to find faults and implement fixes for pre-prod projects
 - **[deptrace](https://github.com/mxdhavgautam/deptrace)** - CLI tool to explain where & how a JavaScript/TypeScript dependency is being used in your project
