@@ -2,7 +2,7 @@
 
 - CS spl. in AI & Robotics @ Vellore Institute of Technology
 - Currently an MLOps Research Officer @ Quantum Innovation Centre, A*STAR in Singapore
-- Previously I've interned at [CR3ATE.AI](https://www.cr3ate.ai), HCLTech in Lucknow and the Weapons and Electronics Systems Engineering Establishment at Ministry of Defence in Delhi
+- Previously I've interned/worked at [CR3ATE.AI](https://www.cr3ate.ai), HCLTech in Lucknow and the Weapons and Electronics Systems Engineering Establishment at Ministry of Defence in Delhi
 - High agency, fast learner, solid under pressure and I love building new things
 - Feel free to reach out to me at [mxdhavgautam.com](https://www.mxdhavgautam.com)
 
